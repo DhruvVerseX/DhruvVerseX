@@ -10,9 +10,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DhruvVerseX&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DhruvVerseX&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVerseX&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVerseX&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/><br/>
+![](https://komarev.com/ghpvc/?username=DhruvVerseX&label=PROFILE+VIEWS)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DhruvVerseX&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
