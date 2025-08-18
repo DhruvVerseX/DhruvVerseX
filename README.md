@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I'm Abhishek<br><br>🖥️ Tech enthusiast with a passion for creative problem-solving and building interactive experiences.<br>💻 Specializing in Next.js and crafting smooth, responsive front-end designs.<br>🔧 Exploring hardware-software communication, bridging tech and real-world applications.<br>🛠️ Starting with Desingning in Web and learning 3js and aninmations<br>✌️ Striving for Peace in our time through technology, creativity, and collaboration.<br>🚀 Recent project: rashi-trading.in<br>🌐 Portfolio: ...coming soon
+ 
 
 
 ## 🌐 Socials:
