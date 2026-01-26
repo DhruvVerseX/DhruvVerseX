@@ -117,7 +117,6 @@
 
 
 
-
 <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 # 📊 GitHub Stats:
 
@@ -125,6 +124,9 @@
 ![DhruvVerseX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvVerseX&theme=vue-dark&hide_border=true)
 ![DhruvVerseX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVerseX&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvVerseX&theme=radical&hide_border=true&area=true&bg_color=#800080">
+
 
 <p align="center">
   <img  width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
@@ -134,7 +136,12 @@
   <img  width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
+
+
+
 <p align="center">
   <i>Let’s collaborate to develop innovative and impactful software solutions together!</i>
 </p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
