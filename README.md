@@ -97,10 +97,7 @@
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br>Nginx
-    </td>
+
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
       <br>Prisma
