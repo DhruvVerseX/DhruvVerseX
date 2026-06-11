@@ -1,144 +1,195 @@
-![👋 Hi there! I'm Abhishek Negi](201947-916877801_tiny.gif)
+<div align="center">
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+```
+ █████╗ ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗  ██╗
+██╔══██╗██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██║ ██╔╝
+███████║██████╔╝███████║██║███████╗███████║█████╗  █████╔╝ 
+██╔══██║██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔═██╗ 
+██║  ██║██████╔╝██║  ██║██║███████║██║  ██║███████╗██║  ██╗
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
--->
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Full stack 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- 💼 3rd Year college student (Non-tech branch) [<img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.png?raw=true" height="30em" align="center" alt="PyTorch" title="PyTorch"/>](https://github.com/pytorch/pytorch)
-- 🎓 Being passionate about my work since past 1 year with only learning experience
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑is page
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 cursor [<img src="[[https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg](https://miro.medium.com/0*zWCTHFNFdGAgSw2d)" height="30em" align="center" alt="Cursor Logo" title="]"/>]
+███╗   ██╗███████╗ ██████╗ ██╗
+████╗  ██║██╔════╝██╔════╝ ██║
+██╔██╗ ██║█████╗  ██║  ███╗██║
+██║╚██╗██║██╔══╝  ██║   ██║██║
+██║ ╚████║███████╗╚██████╔╝██║
+╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝
+```
 
+### Full Stack Developer · Product Engineer · Builder
 
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruv_negi_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-negi-579a582a9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DhruvVerseX) 
+<div align="center">
 
-## 🚀 My Favorite Tools & Technologies  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1A56DB&center=true&vCenter=true&width=500&lines=Building+full-stack+products+from+scratch;Next.js+%7C+TypeScript+%7C+PostgreSQL;Product+thinking+%2B+Engineering+execution;Open+to+internships+%26+collaborations)](https://git.io/typing-svg)
 
-> Tools and technologies I work with and enjoy building full-stack applications
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-      <br>Vercel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
+<div align="center">
 
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-      <br>Prisma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    
-    </td>
-  </tr>
-</table>
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhishknegi.vercel.app-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishknegi.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-abhisheknegi.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheknegi.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-negi-579a582a9)
+[![X](https://img.shields.io/badge/X-%40DhruvVerseX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@DhruvVerseX)
 
+</div>
 
-
-
-<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-# 📊 GitHub Stats:
-
-![DhruvVerseX's Stats](https://github-readme-stats.vercel.app/api?username=DhruvVerseX&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![DhruvVerseX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvVerseX&theme=vue-dark&hide_border=true)
-![DhruvVerseX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVerseX&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvVerseX&theme=radical&hide_border=true&area=true&bg_color=#800080">
+## 🧠 About Me
 
+```ts
+const abhishek = {
+  role:       "Full Stack Developer & Product Engineer",
+  location:   "India 🇮🇳",
+  education:  "B.Tech EE @ Galgotias College · Graduating 2027",
+  background: "Non-CS → Self-taught → Building real products",
+  tools:      ["Next.js", "TypeScript", "PostgreSQL", "Drizzle ORM"],
+  focus:      "Full-stack apps · Developer tooling · Healthcare platforms",
+  currentlyLearning: ["Cryptography", "Rate limiting", "npm package publishing"],
+  openTo:     ["Internships", "Freelance", "Open source collabs"],
+  editor:     "Cursor + AI-assisted workflows",
+};
+```
 
-<p align="center">
-  <img  width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
-   
-<p align="center">
-  <img  width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</p>
+---
 
+## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🧪 AmiWorthy
+**Developer Assessment Platform**
 
-<p align="center">
-  <i>Let’s collaborate to develop innovative and impactful software solutions together!</i>
-</p>
+A coding skill evaluation platform that goes beyond final output — it tests debugging, code quality, and real engineering thinking.
 
+- Monaco Editor in-browser workspace
+- Multi-language support + scoring pipeline
+- Real-world /lab module with backend flow simulation
+- Problem levels: beginner → advanced
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+`Next.js` `TypeScript` `Monaco Editor` `PostgreSQL` `Prisma` `Railway`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Viruj Health
+**Healthcare Web Platform**
+
+Multi-entity healthcare platform for hospitals, doctors, departments, appointments, and pathlab listings.
+
+- Relational DB schema with Drizzle + Neon PostgreSQL
+- Better Auth for secure session management
+- PostHog analytics integration
+- Zod-validated REST API routes
+
+`Next.js` `TypeScript` `Better Auth` `Drizzle ORM` `Neon` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💪 Gym Buddy
+**Fitness Tracking App**
+
+Clean fitness tracker for logging workouts, sets, reps, duration, and training history.
+
+- User flows for add/update/view records
+- Persistent data with auth + DB integration
+- Responsive UI designed for daily use
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 EnvVault *(In Progress)*
+**Secrets Management Platform**
+
+Developer-focused secrets hosting — upload once, get a token, fetch at runtime. No secrets on disk.
+
+- AES-256-GCM encryption at rest
+- IP allowlisting + rate limiting
+- Audit logs for every access
+- One-line SDK: `await loadEnv('evt_...')`
+
+`Next.js` `TypeScript` `Node.js crypto` `PostgreSQL` `Upstash Redis`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+### Backend & Auth
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-1A56DB?style=for-the-badge&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logoColor=black)
+
+### Deploy & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-F54E00?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvVerseX&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVerseX&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvVerseX&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvVerseX&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhruvVerseX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+</div>
+
+---
+
+<div align="center">
+
+*Building in public · Open to opportunities · Let's create something real*
+
+**[📧 abhisheknegi.dev@gmail.com](mailto:abhisheknegi.dev@gmail.com)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=80&section=footer" width="100%"/>
+
+</div>
