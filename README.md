@@ -28,7 +28,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abhishknegi.vercel.app-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishknegi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhisheknegi.vercel.app-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://abhisheknegi.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-abhisheknegi.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheknegi.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-negi-579a582a9)
 [![X](https://img.shields.io/badge/X-%40DhruvVerseX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@DhruvVerseX)
